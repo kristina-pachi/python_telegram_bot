@@ -1,0 +1,16 @@
+GET https://jsonplaceholder.typicode.com/posts/1 
+###
+
+POST https://jsonplaceholder.typicode.com/posts
+Content-Type: application/json
+
+{
+    "title": "My Title",
+    "body": "My text",
+    "userId": 1
+}
+###
+
+GET http://jsonplaceholder.typicode.com/posts/101
+###
+ GET https://api.github.com/repos/kristina-pachi/homework_bot

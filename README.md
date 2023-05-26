@@ -1,2 +1,3 @@
-# homework_bot
-python telegram bot
+# python_telegram_bot
+
+телеграмм бот для уведомления о статусе домашней работы

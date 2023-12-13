@@ -1,10 +1,10 @@
-# Телеграмм бот
+# Телеграм бот
 
 ### Описание
 
-Username в Телеграмме: @CheckStatusMyHomeWorkBot
+Username в Телеграме: @CheckStatusMyHomeWorkBot
 
-"CHeck_homewoRK" - телеграмм бот для уведомления о статусе домашней работы.
+"CHeck_homewoRK" - телеграм бот для уведомления о статусе домашней работы.
 
 ### Функционал
 
